@@ -1,0 +1,12 @@
+sistema que é feito de varios objetos
+
+estoque > tem produtos > cada produto é um objeto > cada objeto tem uma caracteristica 
+
+pratileira {
+    objeto 1 {
+        catchup (molho)
+    }
+    objeto 2 {
+        carrinho de controle remoto (andar, direita, esquerda, voltar)
+    }
+}

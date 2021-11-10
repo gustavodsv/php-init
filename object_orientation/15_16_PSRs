@@ -1,0 +1,13 @@
+https://www.php-fig.org/psr/
+
+- Namespaces and classes MUST follow an "autoloading" PSR: [PSR-4].
+
+- Class names MUST be declared in StudlyCaps.
+
+- Class constants MUST be declared in all upper case with underscore separators.
+
+- Method/Function names MUST be declared in camelCase
+
+- Variable names MUST be declared in camelCase/StudlyCaps/ lowcase with underline separators
+
+- Files MUST use only UTF-8 without BOM for PHP code.
