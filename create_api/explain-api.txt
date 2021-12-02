@@ -1,0 +1,21 @@
+API é um sistema que não tem parte gráfica, que retorna somente informações
+
+--------------------------------------------------------
+2 processos:
+    - Requisição:
+        - Igual o acesso a um site normal
+        - GET, POST, PUT, DELETE, OPTIONS
+        - Cabeçalhos
+
+    - Retorno:
+        - Texto puro
+        - XML
+        - JSON: array em JS
+--------------------------------------------------------
+
+# View, Format, Remove White Spaces(API)
+http://jsonviewer.stack.hu/
+
+
+# ajax request
+https://resttesttest.com/
